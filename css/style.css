@@ -74,6 +74,9 @@ img{
         margin-top: 15rem;
     }
 }
+.barra{
+    padding-top: 4rem;
+}
 @media (min-width: 768px){
     .barra{
         display: flex;
@@ -161,4 +164,9 @@ img{
 .widget-curso__label,
 .widget-curso__info{
     font-size: 2rem;
+}
+.footer{
+    background-color: var(--negro);
+    padding-bottom: 4rem;
+    margin-top: 4rem;
 }
